@@ -1,0 +1,6 @@
+{
+  "name": "JEE Ace",
+  "description": "Personalized study planner, real pattern mock tests, performance analytics, formula handbook, question bank, and distraction-free timer focus mode for JEE Main & Advanced aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

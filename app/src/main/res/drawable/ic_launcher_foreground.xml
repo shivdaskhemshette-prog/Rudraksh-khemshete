@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Atomic orbit 1 (inclined) -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,40 C24,47 24,61 32,68 C40,75 68,75 76,68 C84,61 84,47 76,40 C68,33 40,33 32,40 Z" />
+
+    <!-- Atomic orbit 2 (crossed) -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M40,32 C33,40 33,68 40,76 C47,84 61,84 68,76 C75,68 75,40 68,32 C61,24 47,24 40,32 Z" />
+
+    <!-- Upward IIT Chevron / Summit Arrow -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,28 L69,45 L62,45 L54,35 L46,45 L39,45 Z" />
+
+    <!-- Core Nucleus & Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,49 L56,53 L60,54 L56,55 L54,59 L52,55 L48,54 L52,53 Z" />
+
+    <!-- Base Trophy / Open Book Pedestal -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M42,67 L54,62 L66,67 L66,72 L54,67 L42,72 Z" />
+</vector>
